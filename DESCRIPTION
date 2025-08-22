@@ -19,3 +19,5 @@ Imports:
     rlang,
     shiny
 Roxygen: list(markdown = TRUE)
+URL: https://github.com/aldipoetera/inteRafe
+BugReports: https://github.com/aldipoetera/inteRafe/issues
